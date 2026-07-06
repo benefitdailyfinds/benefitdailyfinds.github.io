@@ -2,9 +2,9 @@ const products = [
   {
     title: "360° Cable Organizer",
     category: "Smart Tech",
-    image: image: "images/cable organizer.jpg",
+    image: "images/cable-organizer.jpg",
     description: "Keep your cables neat and organized.",
-    link: link: "https://link.amazon/B0aAGTv3w"
+    link: "https://link.amazon/B0aAGTv3w"
   },
   {
     title: "Motion Sensor Light",

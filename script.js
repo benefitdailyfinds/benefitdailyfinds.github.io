@@ -1,22 +1,15 @@
-const products = [
-  {
-    title: "360° Cable Organizer",
-    category: "Smart Tech",
-    image: "images/cable-organizer.jpg",
-    description: "Keep your cables neat and organized.",
-    link: "https://link.amazon/B0aAGTv3w"
-  },
-  {
-    title: "Motion Sensor Light",
-    category: "Home",
-    image: "https://via.placeholder.com/300x200?text=Motion+Light",
-    description: "Automatic rechargeable LED light.",
-    link: "https://example.com"
-  }
-];
+let products = [];
 
 const productContainer = document.getElementById("products");
 const search = document.getElementById("search");
+
+// Load products from products.json
+fetch("products.json")
+  .then(response => response.json())
+  .then(data => {
+    products = data;
+    displayProducts(products);
+  });
 
 function displayProducts(list) {
   productContainer.innerHTML = "";
@@ -32,8 +25,6 @@ function displayProducts(list) {
     `;
   });
 }
-
-displayProducts(products);
 
 search.addEventListener("input", () => {
   const keyword = search.value.toLowerCase();
@@ -58,3 +49,4 @@ function filterProducts(category) {
 
   displayProducts(filtered);
 }
+  

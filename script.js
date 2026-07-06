@@ -4,7 +4,7 @@ const products = [
     category: "Smart Tech",
     image: "https://via.placeholder.com/300x200?text=Cable+Organizer",
     description: "Keep your cables neat and organized.",
-    link: "https://example.com"
+    link: "https://link.amazon/B03RnAJLp"
   },
   {
     title: "Motion Sensor Light",

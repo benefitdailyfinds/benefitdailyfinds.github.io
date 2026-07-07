@@ -104,17 +104,26 @@ footer {
   margin-top: 40px;
 }
 .social-links {
-  margin-top: 15px;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
+ display:flex;
+    justify-content:center;
+    gap:30px;
+    align-items:center;
+    flex-wrap:wrap;
+    margin-top:20px; 
 }
 
 .social-links a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
+  display:flex;
+    align-items:center;
+    gap:10px;
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
+    font-size:16px;
+}
+.social-links img {
+    width:28px;
+    height:28px;
 }
 
 .social-links a:hover {

@@ -45,6 +45,17 @@
     "india": "https://link.amazon/B0i89rOGn",
     "saudi": "https://link.amazon/B0b8ArBrd",
     "global": "https://amzn.to/4w3ipyS"
+  },
+{
+  "id": "manual-ice-shaver",
+  "title": "Manual Ice Shaver & Snow Cone Maker",
+  "category": "Kitchen",
+  "image": "images/ice-shaver.jpg",
+  "description": "Portable hand-crank ice shaver for making snow cones, slushies and refreshing summer desserts in minutes.",
+  "links": {
+    "india": "https://link.amazon/B066NgShA",
+    "saudi": "https://link.amazon/B01Ipobfk",
+    "global": "https://amzn.to/4f6WDmp"
   }
 }
 ]

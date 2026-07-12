@@ -5,23 +5,23 @@
     "image": "images/cable-organizer.jpg",
     "description": "Keep your cables neat and organized.",
     "links": {
-    "india": "https://link.amazon/B083X0JX2",
-    "saudi": "https://link.amazon/B0aAGTv3w",
-    "global": "https://amzn.to/4h8irRg"
-   }
-  }
- {
+      "india": "https://link.amazon/B083X0JX2",
+      "saudi": "https://link.amazon/B0aAGTv3w",
+      "global": "https://amzn.to/4h8irRg"
+    }
+  },
+  {
     "title": "Motion Sensor LED Light",
     "category": "Home",
     "image": "images/motion-sensor-light.jpg",
     "description": "Rechargeable LED light with automatic motion sensing. Perfect for wardrobes, stairs, kitchens, cabinets and hallways.",
     "link": "https://link.amazon/B07CV1axk"
   },
-{
-  "title": "Dove Women Roll-On Deodorant",
-  "category": "Self Care",
-  "image": "images/dove.jpg",
-  "description": "24-hour protection with ¼ moisturising cream. Alcohol-free formula that's gentle on the skin and suitable for everyday use.",
-  "link": "https://link.amazon/B01koWiVS"
-}
+  {
+    "title": "Dove Women Roll-On Deodorant",
+    "category": "Self Care",
+    "image": "images/dove.jpg",
+    "description": "24-hour protection with ¼ moisturising cream. Alcohol-free formula that's gentle on the skin and suitable for everyday use.",
+    "link": "https://link.amazon/B01koWiVS"
+  }
 ]

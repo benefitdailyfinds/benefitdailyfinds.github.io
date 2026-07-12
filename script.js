@@ -3,7 +3,7 @@ let products = [];
 const productContainer = document.getElementById("products");
 const search = document.getElementById("search");
 
-// Load products from products.json
+// Load products
 fetch("products.json")
   .then(response => response.json())
   .then(data => {
@@ -20,7 +20,10 @@ function displayProducts(list) {
         <img src="${product.image}" alt="${product.title}">
         <h3>${product.title}</h3>
         <p>${product.description}</p>
-        <a href="${product.link}" target="_blank">🛍️ View Product</a>
+
+        <a href="https://benefitdailyfinds-router.miracle92star.workers.dev/?id=${product.id}" target="_blank">
+          🛍️ View Product
+        </a>
       </div>
     `;
   });
@@ -49,4 +52,3 @@ function filterProducts(category) {
 
   displayProducts(filtered);
 }
-  

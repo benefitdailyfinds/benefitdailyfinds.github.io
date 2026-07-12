@@ -34,5 +34,17 @@
       "saudi": "https://link.amazon/B01koWiVS",
       "global": "https://amzn.to/4gSv17l"
     }
+  },
+  {
+  "id": "double-clothes-rack",
+  "title": "Double Clothes Rack with Storage Shelf",
+  "category": "Home",
+  "image": "images/clothes-rack.jpg",
+  "description": "Heavy-duty double clothes rack with wheels and bottom storage shelf. Perfect for organizing clothes, bedrooms, laundry rooms and boutiques.",
+  "links": {
+    "india": "https://link.amazon/B0i89rOGn",
+    "saudi": "https://link.amazon/B0b8ArBrd",
+    "global": "https://amzn.to/4w3ipyS"
   }
+}
 ]

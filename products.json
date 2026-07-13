@@ -58,5 +58,17 @@
     "saudi": "https://link.amazon/B01Ipobfk",
     "global": "https://amzn.to/4f6WDmp"
   }
+},
+  {
+  "id": "ecvv-body-lotion",
+  "title": "ECVV Moisturizing Body Lotion",
+  "category": "Self Care",
+  "image": "images/ecvv-body-lotion.jpg",
+  "description": "Hydrating body lotion enriched with cocoa cream for dry and sensitive skin. Provides deep nourishment and leaves skin feeling soft, smooth and moisturized.",
+  "links": {
+    "india": "https://link.amazon/B09F2BRB4",
+    "saudi": "https://link.amazon/B09F2BRB4",
+    "global": "https://link.amazon/B09F2BRB4"
+  }
 }
 ]

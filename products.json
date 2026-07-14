@@ -70,5 +70,17 @@
     "saudi": "https://link.amazon/B09F2BRB4",
     "global": "https://link.amazon/B09F2BRB4"
   }
-}
+},
+ {
+  "id": "folding-storage-cabinet",
+  "title": "Foldable Storage Cabinet with Wheels",
+  "category": "Home",
+  "image": "images/folding-storage-box.jpg",
+  "description": "Modern foldable storage cabinet with transparent doors, smooth-rolling wheels and large storage capacity. Perfect for organizing clothes, snacks, books, toys and household essentials.",
+  "links": {
+    "india": "https://link.amazon/B0h7Dtyg0",
+    "saudi": "https://link.amazon/B0fbXKxLr",
+    "global": "https://amzn.to/4aU6zi5"
+  }
+} 
 ]

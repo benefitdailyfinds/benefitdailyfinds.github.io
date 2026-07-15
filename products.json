@@ -82,5 +82,17 @@
     "saudi": "https://link.amazon/B0fbXKxLr",
     "global": "https://amzn.to/4aU6zi5"
   }
-} 
+},
+  {
+  "id": "bluetooth-obd2-scanner",
+  "title": "Bluetooth OBD2 Car Scanner",
+  "category": "Car",
+  "image": "images/obd-port.jpg",
+  "description": "Bluetooth OBD2 diagnostic scanner for Android and Windows. Read engine fault codes, monitor live vehicle data and help diagnose common car issues on compatible OBD-II vehicles.",
+  "links": {
+    "india": "https://link.amazon/B04fBATlX",
+    "saudi": "https://link.amazon/B06Fpc3Qc",
+    "global": "https://amzn.to/3RySboO"
+  }
+}
 ]

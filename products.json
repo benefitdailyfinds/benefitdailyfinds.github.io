@@ -118,5 +118,17 @@
     "saudi": "https://link.amazon/B00Fpur9T",
     "global": "https://amzn.to/4gOad0G"
   }
+},
+  {
+  "id": "stainless-steel-tempura-fryer",
+  "title": "304 Stainless Steel Tempura Fryer Pot",
+  "category": "Kitchen",
+  "image": "images/fryer-pot.jpg",
+  "description": "304 stainless steel deep fryer pot with built-in thermometer, oil drain rack, splash guard lid and oil filter design. Suitable for gas, electric and induction cooktops.",
+  "links": {
+    "india": "https://link.amazon/B01Crkd81",
+    "saudi": "https://link.amazon/B0dvHWWQb",
+    "global": "https://amzn.to/4bUfhNw"
+  }
 }
 ]

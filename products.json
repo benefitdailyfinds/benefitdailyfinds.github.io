@@ -106,5 +106,17 @@
     "saudi": "https://link.amazon/B0foZ0b17",
     "global": "https://amzn.to/3R7TqeB"
   }
+},
+  {
+  "id": "l-shaped-computer-desk",
+  "title": "L-Shaped Computer Desk with Storage Shelf",
+  "category": "Home Office",
+  "image": "images/comp-desk-L.jpg",
+  "description": "Modern L-shaped computer desk with a spacious corner workspace, sturdy metal frame, engineered wood top, and integrated CPU/storage shelf. Perfect for gaming, studying, and home offices.",
+  "links": {
+    "india": "https://link.amazon/B0fsrjHeo",
+    "saudi": "https://link.amazon/B00Fpur9T",
+    "global": "https://amzn.to/4gOad0G"
+  }
 }
 ]

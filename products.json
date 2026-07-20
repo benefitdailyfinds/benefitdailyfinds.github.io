@@ -94,5 +94,17 @@
     "saudi": "https://link.amazon/B06Fpc3Qc",
     "global": "https://amzn.to/3RySboO"
   }
+},
+  {
+  "id": "roborock-q10-pf-plus",
+  "title": "Roborock Q10 PF+ Robot Vacuum & Mop",
+  "category": "Home",
+  "image": "images/vaccum-cleaner.jpg",
+  "description": "Smart robot vacuum and mop with 10000Pa HyperForce suction, LiDAR navigation, self-emptying dock, anti-tangle brushes and app control for effortless home cleaning.",
+  "links": {
+    "india": "https://link.amazon/B0gLhnAO6",
+    "saudi": "https://link.amazon/B0foZ0b17",
+    "global": "https://amzn.to/3R7TqeB"
+  }
 }
 ]

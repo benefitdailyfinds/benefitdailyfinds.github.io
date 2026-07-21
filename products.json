@@ -142,5 +142,17 @@
     "saudi": "https://link.amazon/B0bsYqS81",
     "global": "https://amzn.to/4wfIU4b"
   }
-} 
+},
+  {
+  "id": "ugreen-10-port-power-strip",
+  "title": "UGREEN 10-Port Power Strip with 20W USB-C",
+  "category": "Smart Tech",
+  "image": "images/extension cord.jpg",
+  "description": "Power up to 10 devices at once with 6 AC outlets, 3 USB-A ports, and a 20W USB-C fast charging port. Features GaN technology, multiple safety protections, wall-mount design, and a clutter-free setup for your home or office.",
+  "links": {
+    "india": "https://link.amazon/B09djNOEl",
+    "saudi": "https://link.amazon/B0ej2OBWn",
+    "global": "https://amzn.to/4b69zrL"
+  }
+}
 ]

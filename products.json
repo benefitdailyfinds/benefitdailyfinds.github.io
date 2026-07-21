@@ -130,5 +130,17 @@
     "saudi": "https://link.amazon/B0dvHWWQb",
     "global": "https://amzn.to/4bUfhNw"
   }
-}
+},
+ {
+  "id": "foldable-electric-kettle",
+  "title": "Foldable Portable Electric Kettle",
+  "category": "Travel",
+  "image": "images/electric-kettle.jpg",
+  "description": "Compact foldable electric kettle with food-grade silicone, fast 3-minute boiling, and dual-voltage support. Perfect for travel, hotels, camping, and everyday use.",
+  "links": {
+    "india": "https://link.amazon/B010ikAhH",
+    "saudi": "https://link.amazon/B0bsYqS81",
+    "global": "https://amzn.to/4wfIU4b"
+  }
+} 
 ]

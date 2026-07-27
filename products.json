@@ -154,5 +154,17 @@
     "saudi": "https://link.amazon/B0ej2OBWn",
     "global": "https://amzn.to/4b69zrL"
   }
+},
+  {
+  "id": "wireless-water-dispenser",
+  "title": "USB Rechargeable Automatic Water Dispenser Pump",
+  "category": "Home & Kitchen",
+  "image": "images/wireless-water-pump.jpg",
+  "description": "One-touch USB rechargeable water dispenser for 20L water bottles. Portable, lightweight, food-grade, and perfect for home, office, and travel.",
+  "links": {
+    "india": "https://link.amazon/B02FDz9Tu",
+    "saudi": "https://link.amazon/B0bmwFdHX",
+    "global": "https://amzn.to/4vTusOf"
+  }
 }
 ]

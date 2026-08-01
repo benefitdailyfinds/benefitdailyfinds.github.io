@@ -166,5 +166,17 @@
     "saudi": "https://link.amazon/B0bmwFdHX",
     "global": "https://amzn.to/4vTusOf"
   }
+},
+  {
+  "id": "48pcs-alloy-car-set",
+  "title": "48PCS Alloy Pull Back Toy Car Set",
+  "category": "Home",
+  "image": "images/alloy-toy-cars.jpg",
+  "description": "48 pull-back alloy toy cars with a unique container storage box, foldable city play mat, premium metal construction, and endless fun for kids.",
+  "links": {
+    "india": "https://link.amazon/B0eU9vy0e",
+    "saudi": "https://link.amazon/B061bPKeR",
+    "global": "https://link.amazon/B0itsVdN4"
+  }
 }
 ]
